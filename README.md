@@ -1,4 +1,3 @@
-```markdown
 <!-- ==========================================================
      JAYDEN PILLAY | DEVELOPER PROFILE
      Theme: Midnight Blue / Electric Blue / Violet
